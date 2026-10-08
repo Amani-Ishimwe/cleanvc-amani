@@ -25,5 +25,5 @@ classifiers = [
 cleanvc = "cleanvc.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/Amani-Ishimwe/cleanvc"
-Issues = "https://github.com/Amani-Ishimwe/cleanvc/issues"
+Homepage = "https://github.com/Amani-Ishimwe/cleanvc-amani"
+Issues = "https://github.com/Amani-Ishimwe/cleanvc-amani/issues"

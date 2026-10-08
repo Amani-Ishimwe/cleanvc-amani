@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = "MIT"
 authors = [
-    { name = "Your Name", email = "your_email@example.com" }
+    { name = "ISHIMWE AMANI Samuel", email = "amaniishimwe36@gmail.com" }
 ]
 keywords = ["csv", "data-cleaning", "data-sanitizer", "utility", "cli"]
 classifiers = [
@@ -25,5 +25,5 @@ classifiers = [
 cleanvc = "cleanvc.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/cleanvc"
-Issues = "https://github.com/yourusername/cleanvc/issues"
+Homepage = "https://github.com/Amani-Ishimwe/cleanvc"
+Issues = "https://github.com/Amani-Ishimwe/cleanvc/issues"

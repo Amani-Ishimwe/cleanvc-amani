@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "cleanvc"
+version = "0.1.0"
+description = "Fast, zero-dependency CSV header and whitespace sanitizer."
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+authors = [
+    { name = "Your Name", email = "your_email@example.com" }
+]
+keywords = ["csv", "data-cleaning", "data-sanitizer", "utility", "cli"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+    "Topic :: Utilities",
+]
+
+[project.scripts]
+cleanvc = "cleanvc.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/yourusername/cleanvc"
+Issues = "https://github.com/yourusername/cleanvc/issues"
